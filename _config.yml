@@ -29,6 +29,7 @@ twitter_username: jekyllrb
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 sidebar_home_link: true
 paginate: 5

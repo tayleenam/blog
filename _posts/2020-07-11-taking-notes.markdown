@@ -22,4 +22,4 @@ And it's all happening all at the same time all under the same weird cosmic cons
 
 So, yeah. Obviously, yeah, I'm taking notes. Stuff is happening and I want to remember it.
 
-On an unrelated note, have you ever noticed how the sky looks at 4:00pm on any given weekend-day? Delightful.š
+On an unrelated note, have you ever noticed how the sky looks at 4:00pm on any given weekend-day? Delightful.

@@ -2,6 +2,9 @@
 layout: post
 title:  "taking notes"
 date:   2020-07-14 11:35:14 -0700
-published: false
+published: true
 ---
-hi there
+Movie reviews
+
+
+![ItIsWhatItIs](/assets/images/ItIsWhatItIs.JPG)

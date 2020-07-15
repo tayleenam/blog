@@ -17,7 +17,7 @@ a:hover, a:focus { text-decoration: underline; }
 
 a strong { color: inherit; }
 
-img { border-radius: 5px; display: block; height: auto; margin: 0 0 1rem; max-width: 100%; }
+img { border-radius: 5px; display: block; height: auto; margin: 2rem auto 2rem; min-width: 300px; max-width: 50%; }
 
 table { border: 1px solid #e5e5e5; border-collapse: collapse; font-size: 85%; margin-bottom: 1rem; width: 100%; }
 

@@ -52,8 +52,9 @@ img {
   border-radius: 5px;
   display: block;
   height: auto; // prevent max-width from squishing images with defined height
-  margin: 0 0 1rem;
-  max-width: 100%;
+  margin: 2rem auto 2rem;
+  min-width: 300px;
+  max-width: 50%;
 }
 
 table {

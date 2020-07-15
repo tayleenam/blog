@@ -4,6 +4,8 @@ title:  "taking notes"
 date:   2020-07-11 11:35:14 -0700
 ---
 
+![TakingNotes](/assets/images/TakingNotes.JPG)
+
 A lot of times, I feel like a can of exploding silly string with no exact course, no precise action, no idea what I'm doing except to occupy the space I am in. Except to be here.
 
 *The silly nature of the string has nothing to do with my own personality although I have been told that I can be, on occasion, silly.*

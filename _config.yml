@@ -33,6 +33,8 @@ plugins:
 
 sidebar_home_link: true
 paginate: 5
+google_analytics: "UA-172709143-1"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

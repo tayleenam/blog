@@ -25,4 +25,4 @@ And then localhost:4000 will render your local site. Keep in mind this is a runn
 
 To add photos:
 
-![ImageName](/assets/ImageName.JPG)
+![ImageName](/assets/images/ImageName.JPG)

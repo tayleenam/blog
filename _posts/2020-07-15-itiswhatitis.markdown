@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "it is what it is"
-date:   2020-07-15 11:00:14 -0700
-published: false
+date:   2020-07-16 9:04:4 -0700
+published: true
 ---
 
 Define your terms. If you are going to argue anything, you must define your terms.
@@ -22,9 +22,8 @@ Regardless of Leo’s current state of physical existence (and I say current, be
 Another example: time.
 
 What is time? Depends on your definition, cc: [Sean Carroll](https://www.wired.com/2010/02/what-is-time/), [Carlo Rovelli](https://www.nature.com/articles/d41586-018-04558-7) and [Quanta Magazine](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/) and yes, I did read** those articles. 
-
-Here’s how I can best understand time: 
 <br />
+Here’s how I can best understand time: 
 <br />
 Time is above and around us; we are subject to it, because we choose to be.
 
